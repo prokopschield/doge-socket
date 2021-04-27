@@ -19,5 +19,13 @@
 	},
 	"directories": {
 		"lib": "lib"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/prokopschield/doge-socket.git"
+	},
+	"bugs": {
+		"url": "https://github.com/prokopschield/doge-socket/issues"
+	},
+	"homepage": "https://github.com/prokopschield/doge-socket#readme"
 }
