@@ -1,0 +1,23 @@
+{
+	"name": "doge-socket",
+	"description": "Connect to DogeHouse via WebSocket",
+	"version": "0.0.1",
+	"main": "lib/doge-socket.js",
+	"author": "Prokop Schield",
+	"license": "GPL-3.0-or-later",
+	"devDependencies": {
+		"@types/node": ">=14",
+		"@types/uuid": "^8.3.0",
+		"@types/ws": "^7.4.1"
+	},
+	"keywords": [],
+	"dependencies": {
+		"doge-config": "^0.0.6",
+		"reconnecting-websocket": "^4.4.0",
+		"uuid": "^8.3.2",
+		"ws": "^7.4.5"
+	},
+	"directories": {
+		"lib": "lib"
+	}
+}
